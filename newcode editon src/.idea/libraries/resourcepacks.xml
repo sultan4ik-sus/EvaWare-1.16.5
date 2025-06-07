@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/newcode editon/rungame/resourcepacks/Demon.zip!/" />
+      <root url="jar://$PROJECT_DIR$/newcode editon/rungame/resourcepacks/zettad_10_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/newcode editon/rungame/resourcepacks/!§3 WaddyFault.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
